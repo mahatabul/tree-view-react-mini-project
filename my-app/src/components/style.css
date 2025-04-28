@@ -1,0 +1,21 @@
+.menu-item{
+  list-style: none;
+}
+
+.menu-item-content{
+  display: inline-block;
+  margin: 14px;
+  background-color: cyan;
+  padding: 12px;
+}
+.links{
+  text-decoration: none;
+  color: rgb(43, 42, 42);
+}
+.btn{
+  background-color: cyan;
+  margin-left: 21px;
+  border-radius: 50%;
+  border: none;
+  padding: 2px;
+}
